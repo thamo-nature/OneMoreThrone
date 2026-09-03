@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="services/OneMoreThrone.webp" alt="One More Throne Logo" width="130" height="130">
+  <img src="services/OneMoreThrone.webp" alt="One More Throne Logo" width="130" height="130" style="border-radius: 50%;">
   <h1>OneMoreThrone</h1>
   <p><strong>Premier Luxury SPA, Wellness, Remote Massage & Elite Event Entertainment Platform</strong></p>
   <br>
